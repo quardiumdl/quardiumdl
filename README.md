@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **JS, CSS, and HTML5**
 
-- 👯 I’m looking to collaborate on [DLCE](https://github.com/DL-Community)
-
 - 📄 Know about my experiences [i like games](i like games)
 
 - ⚡ Fun fact **i'm gay**
