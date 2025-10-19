@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **JS, CSS, and HTML5**
 
-- 📄 Know about my experiences [i like games](i like games)
-
 - ⚡ Fun fact **i'm gay**
 
 <h3 align="left">Connect with me:</h3>
