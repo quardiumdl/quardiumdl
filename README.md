@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **JS, CSS, and HTML5**
 
-- ⚡ Fun fact **i'm gay**
+- ⚡ Fun fact **i'm nasihuy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
